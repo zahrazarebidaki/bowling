@@ -10,6 +10,9 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 library/
+git add .
+git commit -m "Add bowling lane and boundaries"
+
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
